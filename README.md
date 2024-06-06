@@ -23,19 +23,15 @@ We're excited to announce that Poetify is officially launched! Dive into a revol
 
 ## 📝 About Poetify
 
+https://github.com/feevemouad/PoemNLProject/assets/105555280/cecba2da-7e5f-4735-9d9d-293760a095cd
+
 Poetify is an innovative poetry application harnessing the power of machine learning and natural language processing to create, classify, and recommend verse. Enjoy the magic of poetry with the help of AI!
-
----
-
-## 📄 License
-
-This project is licensed under the terms of the [MIT License](LICENSE).
 
 ---
 
 ## 📧 Contact Us
 
-Have questions or feedback? We'd love to hear from you! Reach out to us at [here](mouad02aithammou@gmail.com) or [here](bouguilim.oussama@gmail.com) .
+Have questions or feedback? We'd love to hear from you! Reach out to us at [here](mouad02aithammou@gmail.com) or [here](oussama.bouguilim@gmail.com) .
 
 ### Note
 The pretrained models can be downloaded from the following link:
