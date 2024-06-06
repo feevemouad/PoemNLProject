@@ -108,3 +108,7 @@ venv.bak/
 /.ignore/
 /.vscode/
 /data/
+
+/poem_classification/saved_model/
+/poem_classification/classes.npy
+/title_generation/simplet5-epoch-4-train-loss-nan-val-loss-2.9005/
